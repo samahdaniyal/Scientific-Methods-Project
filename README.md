@@ -1,7 +1,9 @@
 **Health Expenditure and Mortality: Exploring Correlations in Least Developed Countries**
 
 Project Overview:
+
 This research investigates the correlation between infant mortality rate, life expectancy, and health expenditure as a percentage of GDP in least developed countries (LDCs) over time. Conducted as part of the CORE-200 Scientific Methods course at Habib University, the study analyzes longitudinal data from 45 LDCs spanning 2000 to 2023 to provide insights into sustainable health outcomes and inform policy decisions.
+
 
 Key Features:
 
@@ -11,6 +13,7 @@ Advanced Methods: Utilized Python, SQL, and Power BI for data preprocessing, int
 
 Focus on Impact: Highlights actionable strategies for improving public health through effective resource allocation.
 
+
 Key Objectives:
 
 Evaluate whether higher health expenditure as a percentage of GDP reduces infant mortality rates.
@@ -19,6 +22,7 @@ Analyze the relationship between health spending and life expectancy.
 
 Provide evidence-based recommendations for healthcare investment strategies in LDCs.
 
+
 Methodology:
 
 Data Cleaning & Integration: Structured data into an MSSQL database using Python for consistent and scalable analysis.
@@ -26,6 +30,7 @@ Data Cleaning & Integration: Structured data into an MSSQL database using Python
 Visualization: Created longitudinal trend charts and correlation heatmaps in Power BI and Python.
 
 Statistical Analysis: Performed correlation analyses to explore relationships between variables and identify trends.
+
 
 Results:
 
